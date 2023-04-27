@@ -1,6 +1,6 @@
-<script>
+<script lang="ts">
     import "../app.css";
 </script>
 
-<h1>test</h1>
+<h1 class=" font-extrabold">test</h1>
 <slot />
